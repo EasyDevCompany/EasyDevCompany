@@ -9,7 +9,7 @@
 ### 
 
 ### Стэк:
-- Python 3 ![python version](https://img.shields.io/badge/Python-3.10-blue)
+- Python ![python version](https://img.shields.io/badge/Python-3.10-blue)
 - Django ![django version](https://img.shields.io/badge/Django-4.1.3-blue)
 - Django RESTFramework ![python version](https://img.shields.io/badge/DRF-3.14.0-blue)
 - Flask ![python version](https://img.shields.io/badge/Flask-2.2-blue)
