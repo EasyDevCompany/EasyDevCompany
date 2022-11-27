@@ -36,3 +36,7 @@
 <a href="https://t.me/egorrrick">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a> - Егор
+<br>
+<a href="EasyDevv@yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a> - Почта компании
