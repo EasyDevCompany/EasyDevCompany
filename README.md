@@ -9,7 +9,7 @@
 ### 
 ### We are a team of web developers specializing in turnkey websites, bots, parsing, cryptocurrency and backend development. We will implement your project in the shortest possible time with the best result!
 ###
-### Стэк:
+### Стэк\Stack:
 - Python ![python version](https://img.shields.io/badge/Python-3.10-blue)
 - Django ![django version](https://img.shields.io/badge/Django-4.1.3-blue)
 - Django RESTFramework ![python version](https://img.shields.io/badge/DRF-3.14.0-blue)
@@ -25,7 +25,7 @@
 - Nginx ![python version](https://img.shields.io/badge/Nginx-%20-blue)
 - Poetry ![python version](https://img.shields.io/badge/Poetry-1.2-blue)
 
-### Контакты:
+### Контакты\Contacts:
 <a href="https://t.me/kazakov_tm">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a> - Тимофей
