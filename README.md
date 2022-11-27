@@ -2,12 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  <h1>Приветствуем👋 </h1>
+  <h1>Приветствуем\Hello👋 </h1>
 
 
 ### Мы команда веб разработчиков, специализирующихся на сайтах под ключ, ботах, парсинге, криптовалюте и бэкенд разработке. Реализуем ваш проект в кратчайшие сроки с наилучшим результатом!
 ### 
-
+### We are a team of web developers specializing in turnkey websites, bots, parsing, cryptocurrency and backend development. We will implement your project in the shortest possible time with the best result!
+###
 ### Стэк:
 - Python ![python version](https://img.shields.io/badge/Python-3.10-blue)
 - Django ![django version](https://img.shields.io/badge/Django-4.1.3-blue)
