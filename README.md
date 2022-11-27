@@ -10,7 +10,7 @@
 
 ### Стэк:
 Python 3 ![python version](https://img.shields.io/badge/Python-3.10-blue) / Django ![django version](https://img.shields.io/badge/Django-4.1.3-blue)
- / Django RESTFramework ![python version](https://img.shields.io/badge/DRF-3.14.0-blue) / Flask ![python version](https://img.shields.io/badge/Flask-2.2-blue) / FastAPI ![python version](https://img.shields.io/badge/FastAPI-0.87-blue) / aiohttp ![python version](https://img.shields.io/badge/FastAPI-3.8.3-blue) / aiogram ![python version](https://img.shields.io/badge/aiogram-2.23.1-blue) / SQLAlchemy ![python version](https://img.shields.io/badge/SQLAlchemy-1.44.3-blue) / Alembic ![python version](https://img.shields.io/badge/Alembic-1.81-blue) / PostgreSQL ![python version](https://img.shields.io/badge/PostgreSQL-15.1-blue) / Dependency Injector ![python version](https://img.shields.io/badge/Dependency%20Injector-4.40-blue) / Docker ![python version](https://img.shields.io/badge/Docker-%20-blue) / Nginx ![python version](https://img.shields.io/badge/Nginx-%20-blue) / Poetry / Unittest /
+ / Django RESTFramework ![python version](https://img.shields.io/badge/DRF-3.14.0-blue) / Flask ![python version](https://img.shields.io/badge/Flask-2.2-blue) / FastAPI ![python version](https://img.shields.io/badge/FastAPI-0.87-blue) / aiohttp ![python version](https://img.shields.io/badge/aiohttp-3.8.3-blue) / aiogram ![python version](https://img.shields.io/badge/aiogram-2.23.1-blue) / SQLAlchemy ![python version](https://img.shields.io/badge/SQLAlchemy-1.44.3-blue) / Alembic ![python version](https://img.shields.io/badge/Alembic-1.81-blue) / PostgreSQL ![python version](https://img.shields.io/badge/PostgreSQL-15.1-blue) / Dependency Injector ![python version](https://img.shields.io/badge/Dependency%20Injector-4.40-blue) / Docker ![python version](https://img.shields.io/badge/Docker-%20-blue) / Nginx ![python version](https://img.shields.io/badge/Nginx-%20-blue) / Poetry / Unittest /
 
 ### Контакты:
 <a href="https://t.me/kazakov_tm">
@@ -24,18 +24,3 @@ Python 3 ![python version](https://img.shields.io/badge/Python-3.10-blue) / Djan
 <a href="https://t.me/egorrrick">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a> - Егор
-
-<!--
-**EasyDevCompany/EasyDevCompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
