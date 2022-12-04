@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://ic.wampi.ru/2022/12/04/background_easydev.jpg" width="1280"/>
 </div>
 
   <h1>Приветствуем\Hello everyone👋 </h1>
